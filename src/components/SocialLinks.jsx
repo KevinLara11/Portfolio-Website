@@ -37,7 +37,7 @@ const SocialLinks = () => {
       id: 4,
       child: (
         <>
-          Curriculum Vitae <BsFillPersonLinesFill size={30} />
+          Curriculum Vitae1 <BsFillPersonLinesFill size={30} />
         </>
       ),
       href: Curriculum,
