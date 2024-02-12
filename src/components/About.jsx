@@ -16,9 +16,9 @@ const About = () => {
         <br />
 
         <p className="text-xl">
-        Soy un Desarrollador web full stack junior autodidacta con 1 año de experiencia trabajando de manera independiente en el estudio y aplicación de tecnologías web.  <br /> <br />
-        Me apasiona profundizar en nuevas tecnologías y aportar al desarrollo de proyectos.<br /> <br />
-        Soy una persona proactiva y con ganas de crecer tanto profesional como personalmente, y poseo habilidades para el trabajo en equipo..
+        Soy una persona autodidacta y de rápido aprendizaje. Constantemente enfrentando nuevos desafíos y bien predispuesto para el trabajo en equipo. <br /> <br /> 
+        Me considero una persona curiosa, proactiva, comprometida y con ganas de crecer tanto profesional cómo personalmente.<br /> <br /> 
+        Y siempre dispuesto en  aprender algo nuevo además, tengo la capacidad de ser una persona qué se adapta y aprende de cualquier tema en muy poco tiempo... 
         </p>
       </div>
     </div>
