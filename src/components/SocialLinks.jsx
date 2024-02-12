@@ -2,7 +2,7 @@ import React from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
-/* import Curriculum  from "../assets/Curriculum Vitae.pdf" */
+import Curriculum  from "../assets/Curriculum Vitae1.pdf" 
 const SocialLinks = () => {
   const links = [
     {
@@ -33,16 +33,16 @@ const SocialLinks = () => {
       ),
       href: "mailto:kevinlaracaicedo98@gmail.com",
     },
-/*     {
+    {
       id: 4,
       child: (
         <>
-          Curriculum Vitae <BsFillPersonLinesFill size={30} />
+          Curriculum Vitae1 <BsFillPersonLinesFill size={30} />
         </>
       ),
       href: Curriculum,
       download: true,
-    }, */
+    },
   ];
 
   return (
