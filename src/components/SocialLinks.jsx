@@ -42,7 +42,7 @@ const SocialLinks = () => {
       ),
       href: Curriculum,
       download: true,
-    },
+    }, 
   ];
 
   return (
