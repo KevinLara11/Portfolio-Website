@@ -5,7 +5,7 @@ import { BsFillPersonLinesFill } from "react-icons/bs";
 /* import Curriculum  from "../assets/Curriculum Vitae1.pdf"  */
 const SocialLinks = () => {
   const links = [
-    {
+/*     {
       id: 1,
       child: (
         <>
@@ -23,7 +23,7 @@ const SocialLinks = () => {
         </>
       ),
       href: "https://github.com/KevinLara11",
-    },
+    }, */
     {
       id: 3,
       child: (
