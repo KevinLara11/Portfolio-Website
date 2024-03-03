@@ -1,11 +1,11 @@
 import React from "react";
-import { FaGithub, FaLinkedin } from "react-icons/fa"; 
-import { HiOutlineMail } from "react-icons/hi";
-import { BsFillPersonLinesFill } from "react-icons/bs";
+/* import { FaGithub, FaLinkedin } from "react-icons/fa";  */
+/* import { HiOutlineMail } from "react-icons/hi"; */
+/* import { BsFillPersonLinesFill } from "react-icons/bs"; */
 /* import Curriculum  from "../assets/Curriculum Vitae1.pdf"  */
 const SocialLinks = () => {
   const links = [
- {
+/*  {
       id: 1,
       child: (
         <>
@@ -14,8 +14,8 @@ const SocialLinks = () => {
       ),
       href: "https://www.linkedin.com/in/kevin-lara-caicedo/",
       style: "rounded-tr-md",
-    },
-    {
+    }, */
+/*     {
       id: 2,
       child: (
         <>
@@ -23,8 +23,8 @@ const SocialLinks = () => {
         </>
       ),
       href: "https://github.com/KevinLara11",
-    }, 
-    {
+    },  */
+/*     {
       id: 3,
       child: (
         <>
@@ -32,7 +32,7 @@ const SocialLinks = () => {
         </>
       ),
       href: "mailto:kevinlaracaicedo98@gmail.com",
-    },
+    }, */
 /*     {
       id: 4,
       child: (
