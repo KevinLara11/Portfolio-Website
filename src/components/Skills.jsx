@@ -117,8 +117,8 @@ const Skills = () => {
     },
     {
       id: 17,
-      src: figman,
-      title: "Figman",
+      src: figma,
+      title: "Figma",
       style: "shadow-green-400",
     },
   ];
