@@ -70,7 +70,7 @@ const Skills = () => {
     {
       id: 9,
       src: github,
-      title: "Github",7
+      title: "Github",
       style: "shadow-white",
     },
     {
