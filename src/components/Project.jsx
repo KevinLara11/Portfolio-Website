@@ -6,7 +6,7 @@ import cotizadorseguro from "../assets/portfolio/cotizador.PNG";
 import windbnb from '../assets/portfolio/Windbnb-app.png'
 
 const Project = () => {
-  const projects = [
+  const project = [
     {
       id: 1,
       src: windbnb,
@@ -46,7 +46,7 @@ const Project = () => {
         </div>
 
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
-          {projects.map(({ id, src, link, repo }) => (
+          {project.map(({ id, src, link, repo }) => (
             <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
               <img
                 src={src}
