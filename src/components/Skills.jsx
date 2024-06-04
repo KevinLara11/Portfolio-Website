@@ -9,6 +9,14 @@ import tailwind from "../assets/tailwind.png";
 import mysql from "../assets/Mysql.png";
 import git from "../assets/Git.png";
 import github from "../assets/github.png";
+import sql from "../assets/sql.png";
+import dbeaver from "../assets/dbeaver.png";
+import laravel from "../assets/laravel.png";
+import phpmyadmin from "../assets/phpmyadmin.png";
+import vue from "../assets/vue.png";
+import php from "../assets/php.png";
+import postman from "../assets/postman.png";
+import figma from "../assets/figma.png";
 const Skills = () => {
   const techs = [
     {
@@ -62,8 +70,56 @@ const Skills = () => {
     {
       id: 9,
       src: github,
-      title: "Github",
+      title: "Github",7
       style: "shadow-white",
+    },
+    {
+      id: 10,
+      src: sql,
+      title: "Sql",
+      style: "shadow-blue",
+    },
+    {
+      id: 11,
+      src: dbeaver ,
+      title: "Dbeaver",
+      style: "shadow-blue",
+    },
+    {
+      id: 12,
+      src: laravel,
+      title: "Laravel",
+      style: "shadow-orange-500",
+    },
+    {
+      id: 13,
+      src: phpmyadmin,
+      title: "PhpMyAdmin",
+      style: "shadow-blue-500",
+    },
+    {
+      id: 14,
+      src: vue,
+      title: "Vue",
+      style: "shadow-yellow-500",
+    },
+    {
+      id: 15,
+      src: php,
+      title: "Php",
+      style: "shadow-blue-600",
+    },
+    {
+      id: 16,
+      src: postman,
+      title: "Postman",
+      style: "shadow-sky-400",
+    },
+    {
+      id: 17,
+      src: figman,
+      title: "Figman",
+      style: "shadow-green-400",
     },
   ];
 
