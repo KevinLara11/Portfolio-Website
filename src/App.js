@@ -4,7 +4,7 @@ import Skills from "./components/Skills";
 import Home from "./components/Home";
 import NavBar from "./components/NavBar";
 import Project from "./components/Project";
-import SocialLinks from "./components/SocialLinks";
+/* import SocialLinks from "./components/SocialLinks"; */
 import Footer from "./components/Footer"
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
       <Skills />
       <Contact />
       <Footer />
-      <SocialLinks />
+/*       <SocialLinks /> */
     </div>
   );
 }
